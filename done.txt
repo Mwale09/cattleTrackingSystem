@@ -13,10 +13,10 @@
 #define WIFI_SSID "POWER_HOUSE 1917"
 #define WIFI_PASSWORD "power_housee"
 #define USER_EMAIL "modisamokoea=na@gmail.com"
-#define USER_PASSWORD "Godofeverything"
+#define USER_PASSWORD "****"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDgABC-3kUS69dT2yFglDk20qnYievsylY"
+#define API_KEY "****"
 // Insert RTDB URLefine the RTDB URL */
 #define DATABASE_URL "https://live-stock-tracker-ab5a7-default-rtdb.asia-southeast1.firebasedatabase.app/" 
 
